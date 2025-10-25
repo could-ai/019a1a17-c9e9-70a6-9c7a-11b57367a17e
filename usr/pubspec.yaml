@@ -10,7 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.8
-  swipe_cards: ^1.0.3  # For swipe gesture functionality on profile cards
+  swipe_cards: ^2.0.0+1  # For swipe gesture functionality on profile cards
   cached_network_image: ^3.3.1  # For efficient image loading and caching
 
 flutter:
